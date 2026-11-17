@@ -1,0 +1,14 @@
+[
+  {
+    "id": "rice",
+    "cents_per_kg": 600
+  },
+  {
+    "id": "fish",
+    "cents_per_kg": 3000
+  },
+  {
+    "id": "milk",
+    "cents_per_kg": 1200
+  }
+]

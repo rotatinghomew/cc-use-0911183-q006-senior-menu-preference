@@ -1,0 +1,18 @@
+[
+  {
+    "id": "r1",
+    "allergens": [
+      "milk"
+    ],
+    "max_texture": 1,
+    "salt_max": 6,
+    "energy_min": 400
+  },
+  {
+    "id": "r2",
+    "allergens": [],
+    "max_texture": 3,
+    "salt_max": 6,
+    "energy_min": 500
+  }
+]

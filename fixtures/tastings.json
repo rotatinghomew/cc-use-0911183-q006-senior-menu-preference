@@ -1,0 +1,18 @@
+[
+  {
+    "id": "t1",
+    "resident": "r2",
+    "dish": "pudding",
+    "invited": true,
+    "attended": true,
+    "score": 5
+  },
+  {
+    "id": "t2",
+    "resident": "r1",
+    "dish": "soft_rice",
+    "invited": true,
+    "attended": false,
+    "score": null
+  }
+]

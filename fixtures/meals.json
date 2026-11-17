@@ -1,0 +1,37 @@
+[
+  {
+    "id": "m1",
+    "resident": "r1",
+    "date": "2026-10-01",
+    "offered": [
+      "soft_rice"
+    ],
+    "dish": "soft_rice",
+    "delivered_grams": 250,
+    "leftover_grams": 0
+  },
+  {
+    "id": "m2",
+    "resident": "r2",
+    "date": "2026-10-01",
+    "offered": [
+      "soft_rice",
+      "fish"
+    ],
+    "dish": "fish",
+    "delivered_grams": 200,
+    "leftover_grams": 20
+  },
+  {
+    "id": "m3",
+    "resident": "r2",
+    "date": "2026-10-02",
+    "offered": [
+      "soft_rice",
+      "fish"
+    ],
+    "dish": "fish",
+    "delivered_grams": 0,
+    "leftover_grams": null
+  }
+]

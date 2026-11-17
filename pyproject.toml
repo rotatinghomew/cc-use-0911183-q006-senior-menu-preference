@@ -1,0 +1,6 @@
+[project]
+name = "senior-menu-preference"
+version = "0.1.0"
+description = "养老膳食菜单改版的偏好证据与营养覆盖情景的业务数据服务"
+requires-python = ">=3.11"
+dependencies = ["numpy==2.2.6", "scipy==1.15.3"]

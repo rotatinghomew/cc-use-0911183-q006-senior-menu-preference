@@ -1,0 +1,43 @@
+[
+  {
+    "id": "soft_rice",
+    "texture": 1,
+    "allergens": [],
+    "energy": 400,
+    "protein": 10,
+    "salt": 1,
+    "batch_size": 10,
+    "ingredients_per_batch": {
+      "rice": 1000
+    }
+  },
+  {
+    "id": "fish",
+    "texture": 2,
+    "allergens": [
+      "fish"
+    ],
+    "energy": 200,
+    "protein": 20,
+    "salt": 2,
+    "batch_size": 6,
+    "ingredients_per_batch": {
+      "fish": 1200,
+      "rice": 300
+    }
+  },
+  {
+    "id": "pudding",
+    "texture": 1,
+    "allergens": [
+      "milk"
+    ],
+    "energy": 300,
+    "protein": 8,
+    "salt": 1,
+    "batch_size": 8,
+    "ingredients_per_batch": {
+      "milk": 1000
+    }
+  }
+]
